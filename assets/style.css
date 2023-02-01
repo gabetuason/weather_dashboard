@@ -1,0 +1,41 @@
+/* Additional Custom Styles  */
+
+/* Universal Selectors  */
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h5 {
+    font-size: 40px;
+}
+
+
+body {
+    background-color: rgb(8, 54, 75);
+}
+
+p {
+    font-weight: 600;
+}
+
+
+/* Class Selectors & ID  */
+.header-container {
+    background-color: rgba(14, 123, 156, 0.753);
+}
+
+.today-container {
+    background-color: rgb(156, 198, 201);
+}
+
+.box-container {
+    background-color: rgba(14, 123, 156, 0.753);
+}
+
+#fiveDayForcast,
+.cast {
+    padding-top: 1%;
+    padding-left: 15%;
+}

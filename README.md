@@ -1,10 +1,14 @@
 # weather_dashboard_API
 
 ## Deployed URL
-
+https://gabetuason.github.io/weather_dashboard/
 
 ## Description
 A weather dashboard that takes weather data for cities and displays the 5-day weather forecast.
+- Uses third party API of https://openweathermap.org
+Weather dashboard runs in the browser, featuring dynamically updated HTML and CSS.
+Powered by Javascript along with bootstrap and Jquery. Users are able to search for a city and obtain precipitation conditions, temps (fahrenheit), humidity and wind speed of the current time. Also, shows 5-day forecasts of the picked city on that time. Icons of conditions are displayed making it easy to read. 
+Included in this browser app is an interactive search-list 
 
 ## User Story
 AS A traveler
@@ -26,4 +30,4 @@ WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
 
 ## Screenshot
-![Alt text]()
+![Alt text](https://github.com/gabetuason/weather_dashboard/blob/main/Screenshot.PNG)
